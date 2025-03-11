@@ -5,17 +5,17 @@
 > From web to desktop to mobile — I build the tools I need and share them with you. These passion projects solve real problems I've encountered, and I hope you find them useful too.
 
 ## Jump to Projects
-* [clipMind](#clipmind) - Intelligent clipboard manager
+* [ClipMind](#clipmind) - Intelligent clipboard manager
 
 ## Projects
 
-### 📋 <a id="clipmind"></a>clipMind
+### 📋 <a id="clipmind"></a>ClipMind
 
 **An intelligent clipboard manager that remembers, so you don't have to**
 
-![clipMind Screenshot](./clipmind-preview.png)
+![ClipMind Screenshot](./clipmind-preview.png)
 
-clipMind tracks everything you copy, storing it securely within the app. Easily retrieve your copy history and access previously copied text whenever you need it.
+ClipMind tracks everything you copy, storing it securely within the app. Easily retrieve your copy history and access previously copied text whenever you need it.
 
 #### Key Features
 
@@ -23,7 +23,7 @@ clipMind tracks everything you copy, storing it securely within the app. Easily 
 - **Smart Search**: Quickly find what you copied days or weeks ago
 - **Cross-platform**: Available on macOS (coming soon for Windows, Linux)
 
-[Download clipMind](https://github.com/selcuksarikoz/apps-release/releases/tag/clipmind-release)
+[Download ClipMind](https://github.com/selcuksarikoz/apps-release/releases/tag/clipmind-release)
 
 ---
 
