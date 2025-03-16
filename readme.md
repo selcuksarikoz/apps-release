@@ -23,7 +23,7 @@ ClipMind tracks everything you copy, storing it securely within the app. Easily 
 - **Smart Search**: Quickly find what you copied days or weeks ago
 - **Cross-platform**: Available on macOS (coming soon for Windows, Linux)
 
-[Download ClipMind](https://github.com/selcuksarikoz/apps-release/releases/tag/clipmind-release)
+[Download ClipMind](https://github.com/selcuksarikoz/apps-release/releases/tag/clipmind)
 
 ---
 
