@@ -13,7 +13,7 @@
 
 **An intelligent clipboard manager that remembers, so you don't have to**
 
-![ClipMind Screenshot](./clipmind-preview.png)
+![ClipMind Screenshot](./clipmind-promo.png)
 
 ClipMind tracks everything you copy, storing it securely within the app. Easily retrieve your copy history and access previously copied text whenever you need it.
 
